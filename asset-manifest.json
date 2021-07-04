@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AnimeApp/static/css/main.f569570a.chunk.css",
+    "main.js": "/AnimeApp/static/js/main.ae1c05ea.chunk.js",
+    "main.js.map": "/AnimeApp/static/js/main.ae1c05ea.chunk.js.map",
+    "runtime-main.js": "/AnimeApp/static/js/runtime-main.a3586e73.js",
+    "runtime-main.js.map": "/AnimeApp/static/js/runtime-main.a3586e73.js.map",
+    "static/js/2.5585a7f2.chunk.js": "/AnimeApp/static/js/2.5585a7f2.chunk.js",
+    "static/js/2.5585a7f2.chunk.js.map": "/AnimeApp/static/js/2.5585a7f2.chunk.js.map",
+    "index.html": "/AnimeApp/index.html",
+    "static/css/main.f569570a.chunk.css.map": "/AnimeApp/static/css/main.f569570a.chunk.css.map",
+    "static/js/2.5585a7f2.chunk.js.LICENSE.txt": "/AnimeApp/static/js/2.5585a7f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3586e73.js",
+    "static/js/2.5585a7f2.chunk.js",
+    "static/css/main.f569570a.chunk.css",
+    "static/js/main.ae1c05ea.chunk.js"
+  ]
+}
